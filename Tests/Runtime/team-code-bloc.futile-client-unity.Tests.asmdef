@@ -1,8 +1,0 @@
-{
-    "name": "team-code-bloc.futile-client-unity.Tests",
-    "references": [
-        "team-code-bloc.futile-client-unity"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": []
-}

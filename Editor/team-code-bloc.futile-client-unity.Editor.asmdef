@@ -1,9 +1,0 @@
-{
-    "name": "team-code-bloc.futile-client-unity.Editor",
-    "references": [
-        "team-code-bloc.futile-client-unity"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
-}
