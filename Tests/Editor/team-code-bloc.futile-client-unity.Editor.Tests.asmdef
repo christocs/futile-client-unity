@@ -1,0 +1,11 @@
+{
+    "name": "team-code-bloc.futile-client-unity.Tests.Editor",
+    "references": [
+        "team-code-bloc.futile-client-unity",
+        "team-code-bloc.futile-client-unity.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
